@@ -1,0 +1,15 @@
+{
+  "name": "testcafe-temp-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "testcafe chrome test/testcafe/**/*.test.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.20.0",
+    "testcafe-temp-1": "github:felis2803/testcafe-temp-1"
+  }
+}
